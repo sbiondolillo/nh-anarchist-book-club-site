@@ -1,6 +1,31 @@
 ---
-title: "Welcome to the New Hampshire Anarchist Book Club"
-description: "A book club for Granite Staters who oppose unjust hierarchies"
+title: "Home"
+description: "A book club for anarchists in the Granite State"
+type: "single"
 ---
 
-Site Under Construction
+**an·ar·chist**  
+/ˈanərkəst, ˈaˌnärkəst/  
+*noun*: a person who opposes unjust hierarchies
+
+---
+
+## Next Meeting
+
+Our next discussion will be held on Sunday, February 22, 2026 in Manchester, NH.
+
+[Full details](/next-meeting/)
+
+---
+
+## To Be Read
+
+A living list of works proposed by members for future discussion:
+
+[View the list](/to-be-read/)
+
+---
+
+## Past Discussions
+
+Notes from previous meetings:

@@ -4,3 +4,21 @@ title = 'NH Anarchist Book Club'
 
 theme = ["github.com/yihui/hugo-xmin"]
 
+[permalinks]
+  past = "/post/:year/:month/:slug/"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+
+  [[menu.main]]
+    name = "Next Meeting"
+    url = "/next-meeting/"
+    weight = 2
+
+  [[menu.main]]
+    name = "To Be Read"
+    url = "/to-be-read/"
+    weight = 3
