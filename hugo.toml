@@ -1,3 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nhanarchistbook.club/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'NH Anarchist Book Club'
+
+theme = ["github.com/yihui/hugo-xmin"]
+
