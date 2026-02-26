@@ -12,7 +12,7 @@ type: "single"
 
 ## Next Meeting
 
-Our next discussion will be held on Sunday, February 22, 2026 in Manchester, NH.
+Our next discussion will be held on Sunday, March 29, 2026 in Manchester, NH.
 
 [Full details](/next-meeting/)
 

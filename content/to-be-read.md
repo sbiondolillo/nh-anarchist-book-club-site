@@ -60,12 +60,6 @@ https://share.google/lPsmULPjoRLrDbmDf
 
 _Elevator Pitch_: This book uses fiction to explore how power can hide in plain sight—how systems can shape what we notice, remember, or even believe exists—making it a surprisingly sharp companion to real‑world critiques of surveillance and control.  
 
-**To Catch a Fascist by Christopher Mathias**  
-(336 pages, proposed by Becky)  
-https://www.akpress.org/to-catch-a-fascist.html  
-
-_Elevator Pitch_: Written like a thriller, it shares real-life ways that folks have been fighting against and exposing hateful extremists in their communities, in an effort to prevent violence  
-
 **A Thousand Plateaus by Gilles Deleuze and Felix Guattari**  
 (632 pages, proposed by Becky)  
 https://en.wikipedia.org/wiki/A_Thousand_Plateaus  

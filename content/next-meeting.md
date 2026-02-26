@@ -1,13 +1,14 @@
 ---
-title: "February 2026 Meeting"
+title: "March 2026 Meeting"
 type: "single"
 ---
 
 **Reading(s):**  
-They Thought They Were Free: The Germans 1933-45 by Milton Mayer
+To Catch a Fascist: The Fight to Expose the Radical Right by Christopher Mathias  
+https://www.akpress.org/to-catch-a-fascist.html  
 
 **When:**  
-Sunday, February 22, 2026
+Sunday, March 29, 2026
 
 **Where:**  
 The Quill  
