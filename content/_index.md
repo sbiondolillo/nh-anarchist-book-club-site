@@ -6,7 +6,7 @@ type: "single"
 
 **an·ar·chist**  
 /ˈanərkəst, ˈaˌnärkəst/  
-*noun*: a person who opposes unjust hierarchies
+*noun*: a person who actively works to create social relations grounded in voluntary cooperation, mutual aid, and freedom from domination
 
 ---
 
