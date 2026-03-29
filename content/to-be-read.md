@@ -69,12 +69,6 @@ https://en.wikipedia.org/wiki/Blueprint_for_Revolution
 
 _Elevator Pitch_: This book is a playful, practical guide to how ordinary people can organize, outmaneuver entrenched power, and win through the use of creativity, humor, and collective action instead of hierarchy or violence.
 
-**Pranksters vs. Autocrats by Sophia A. McClennen and Srđa Popović**  
-(96 pages, proposed by Becky)  
-https://www.cornellpress.cornell.edu/book/9781501756061/pranksters-vs-autocrats/#bookTabs=1 (free e-book)
-
-_Elevator Pitch_: This book describes how playful, culture‑hacking tactics can shift public imagination, expose the absurdity of repression, and give ordinary people low‑risk ways to join collective action.
-
 **Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict by Erica Chenoweth and Maria Stephan**  
 (320 pages, proposed by Sam)  
 https://cup.columbia.edu/book/why-civil-resistance-works/9780231527484/

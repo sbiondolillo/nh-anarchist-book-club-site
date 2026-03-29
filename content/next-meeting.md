@@ -1,14 +1,15 @@
 ---
-title: "March 2026 Meeting"
+title: "April 2026 Meeting"
 type: "single"
 ---
 
 **Reading(s):**  
-To Catch a Fascist: The Fight to Expose the Radical Right by Christopher Mathias  
-https://www.akpress.org/to-catch-a-fascist.html  
+Pranksters vs. Autocrats by Sophia A. McClennen and Srđa Popović
+https://www.cornellpress.cornell.edu/book/9781501756061/pranksters-vs-autocrats/#bookTabs=1  
+(free e-book)
 
 **When:**  
-Sunday, March 29, 2026
+Sunday, April 26, 2026
 
 **Where:**  
 The Quill  
