@@ -57,12 +57,6 @@ _Elevator Pitch_:
 
 ...also from Reddit: “What stands out to me is how wildly it celebrates pluralism and process philosophy. It feels like a creative, almost chaotic rejection of the monisms that dominate so much of Western thought—from Parmenides to Schelling—and instead invites us to embrace the messy, tangled beauty of multiplicities. The way they dismantle the idea of simples (things with no parts) over and over is just so satisfying. It’s like a love letter to complexity. The ideas of rhizome and assemblage really bring this alive for me.”  
 
-**The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power by Shoshana Zuboff**  
-(704 pages, proposed by Sam)  
-https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism
-
-_Elevator Pitch_: Zuboff shows how data extraction, behavioral nudging, and algorithmic governance have created a new architecture of power that operates beyond democratic oversight, making it essential reading for anyone resisting centralized domination.
-
 **Blueprint for Revolution: How to Use Rice Pudding, Lego Men, and Other Nonviolent Techniques to Galvanize Communities, Overthrow Dictators, or Simply Change the World by Srđa Popović**  
 (304 pages, proposed by Becky)  
 https://en.wikipedia.org/wiki/Blueprint_for_Revolution

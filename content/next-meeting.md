@@ -1,15 +1,16 @@
 ---
-title: "April 2026 Meeting"
+title: "May 2026 Meeting"
 type: "single"
 ---
 
 **Reading(s):**  
-Pranksters vs. Autocrats by Sophia A. McClennen and Srđa Popović
-https://www.cornellpress.cornell.edu/book/9781501756061/pranksters-vs-autocrats/#bookTabs=1  
-(free e-book)
+The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power by Shoshana Zuboff
+https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism  
+
+Note: We will be reading and discussing **Sections 1-2 only**; Section 3 will be covered next month.
 
 **When:**  
-Sunday, April 26, 2026
+Sunday, June 7, 2026
 
 **Where:**  
 The Quill  
